@@ -1,0 +1,5 @@
+﻿## Interface: 30300
+## Title: QuickDkpRoster
+## Author: Kryso
+
+core.lua
